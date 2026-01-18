@@ -94,5 +94,11 @@ This project evaluates whether **momentum and reversal effects** persist after a
 
 ---
 
-## Project Structure
+## Results Summary
 
+- **Initial capital:** $1,000  
+- **Final value (Jan 2026):** $1,160.69  
+- **Total profit:** $160.69  
+- **Total return:** **+16.1%**
+
+These results reflect the performance of the daily-rebalanced, volatility-adjusted, market-neutral strategy over the evaluation period, before any additional transaction-cost sensitivity analysis.
